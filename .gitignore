@@ -1,0 +1,7 @@
+config.json
+nexeo_serials_to_run.csv
+Downloads/
+failures/
+logs/
+results/
+node_modules/

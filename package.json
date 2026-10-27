@@ -1,0 +1,14 @@
+{
+  "name": "nexeo-log-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "download-nexeo-log.js",
+  "scripts": {
+    "start": "node download-nexeo-log.js",
+    "help": "node download-nexeo-log.js --help"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}
